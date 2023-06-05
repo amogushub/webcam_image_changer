@@ -13,7 +13,7 @@ Esse programa detecta o vídeo de sua webcam e o altera de várias formas aplica
    - Canny: O programa pegará o contorno do vídeo e mostrará em preto e branco.
    - Gaussian: O programa irá detectar e mostrar apenas objetos com cores azuis no vídeo.
    - Cascade: O programa tentará achar o seu rosto e colocará um quadrado em volta dele.
-   - Laplacian: O programa irá pegar o contorno do vídeo e colocará um gradiente nele 
+   - Laplacian: O programa irá pegar o contorno do vídeo e colocará um gradiente nele.
   
 
 Menu Inicial:
